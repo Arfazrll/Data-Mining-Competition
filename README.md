@@ -70,11 +70,11 @@ adikara2024-datamining/
 ---
 
 ## 📏 **Metrik Evaluasi**
-Kompetisi ini menggunakan **Symmetric Mean Absolute Percentage Error (sMAPE)**:
+Menggunakan **Symmetric Mean Absolute Percentage Error (sMAPE)**:
 
-\[ \text{sMAPE} = \frac{100\%}{n} \sum_{i=1}^{n} \frac{|y_i - \hat{y}_i|}{(|y_i| + |\hat{y}_i|)/2} \]
+![sMAPE Formula](https://github.com/Arfazrll/AllReference/blob/main/sMape.png)
 
-Semakin **kecil nilai sMAPE**, semakin baik prediksi model Anda.
+Semakin **kecil nilai sMAPE**, semakin baik prediksi modelnya.
 
 ---
 
