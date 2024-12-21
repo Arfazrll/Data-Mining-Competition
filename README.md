@@ -140,7 +140,7 @@ id,FoodPriceIndex
    python -m venv env
    source env/bin/activate  # Untuk Linux/Mac
    env\Scripts\activate   # Untuk Windows
-   pip install -r requirements.txt
+   pip install -r All_Requirements.txt
    ```
 
 ## 🛠️ **Prasyarat**
