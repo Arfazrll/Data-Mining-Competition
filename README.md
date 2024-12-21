@@ -91,26 +91,26 @@ Semakin **kecil nilai sMAPE**, semakin baik prediksi modelnya.
 ---
 
 ## 📘 **Notebook 1 - Pelatihan Model**
-**Nama File:** `Notebook1_NamaTim_ADIKARA2024.ipynb`
+**Nama File:** `Notebook1_Manusia_Pelupa_ADIKARA2024.ipynb`
 
 Notebook ini mencakup:
 - Eksplorasi data (`train_adikara2024.csv`)
 - *Pre-processing* (menangani nilai hilang, *encoding*, dsb.)
 - Pelatihan model dengan algoritma seperti Random Forest, XGBoost, dll.
 - Evaluasi model menggunakan sMAPE
-- Eksport model terbaik (`Model_NamaTim_ADIKARA2024`)
+- Eksport model terbaik 
 
 ---
 
 ## 📗 **Notebook 2 - Prediksi Submission**
-**Nama File:** `Notebook2_NamaTim_ADIKARA2024.ipynb`
+**Nama File:** `Notebook2_Manusia_Pelupa_ADIKARA2024.ipynb`
 
 Notebook ini mencakup:
 - Membaca file `test_adikara2024_unlabeled.csv`
 - Mengimpor model terbaik dari Notebook 1
 - *Pre-processing* data uji
 - Memprediksi *Food Price Index*
-- Menghasilkan file submission (`submission_NamaTim_ADIKARA2024.csv`)
+- Menghasilkan file submission (`submission_Manusia Pelupa_ADIKARA2024.csv`)
 
 ---
 
