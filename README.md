@@ -22,6 +22,7 @@ Kompetisi ini bertujuan untuk mengasah keterampilan analisis data mahasiswa dala
 -  [🛠️ Prasyarat](#%EF%B8%8F-prasyarat)
 - [📂 File Pendukung](#-file-pendukung)
 - [🌐 Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+- [🔮 Kesimpulan](#-kesimpulan)
 
 ---
 
@@ -179,5 +180,11 @@ Pastikan Anda memiliki:
    ```
 
 4. Ikuti instruksi pada `Notebook1` dan `Notebook2` untuk pelatihan serta prediksi.
+
+---
+
+## 🔮 **Kesimpulan**
+
+**ADIKARA 2024 - Data Mining Competition** memberikan saya peluang luar biasa untuk meningkatkan kemampuan analisis data spatiotemporal dan machine learning. Dengan memanfaatkan metrik evaluasi seperti sMAPE, saya dapat mengembangkan model prediksi yang akurat dan relevan🚀
 
 ---
