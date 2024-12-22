@@ -3,7 +3,7 @@
 ![ADIKARA 2024 Banner](https://github.com/Arfazrll/AllReference/blob/main/Adikara.image.header.png?raw=true)
 
 **ADIKARA 2024 - Data Mining Competition**! 🏆 
-Kompetisi ini bertujuan untuk mengasah keterampilan analisis data mahasiswa dalam memprediksi **Food Price Index** dengan dataset spatiotemporal.
+Kompetisi ini bertujuan untuk mengasah keterampilan analisis data dalam memprediksi **Food Price Index** dengan dataset spatiotemporal.
 
 ---
 
